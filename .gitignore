@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# HuggingFace / transformers
+.hf_cache/
+.cache/
+
+# 環境変数
+.env
+
+# OS固有
+.DS_Store
+Thumbs.db
